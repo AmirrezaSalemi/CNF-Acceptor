@@ -1,0 +1,15 @@
+Variables: S, T, K, F, X, A, U, B
+Terminals: a, b
+Start_Var: S
+Rules:
+S, TK
+S, TF
+K, AX
+K, a
+X, FB
+A, AU
+A, a
+U, BS
+B, FF
+T, a
+F, b

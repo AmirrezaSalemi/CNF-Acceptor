@@ -1,0 +1,10 @@
+Variables: S, A, B, U
+Terminals: a, b
+Start_Var: S
+Rules:
+S, AU
+S, SS
+S, BA
+A, a
+B, b
+U, SB
